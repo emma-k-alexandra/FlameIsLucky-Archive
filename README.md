@@ -1,6 +1,6 @@
 # FlameIsLucky YouTube Channel Archive
 
-![A screenshot of FlameIsLucky's YouTubeChannel Videos page with many videos displaying a self-destruct date](./readme//2024-11-16.png){width=100%}
+![A screenshot of FlameIsLucky's YouTubeChannel Videos page with many videos displaying a self-destruct date](./readme//2024-11-16.png)
 
 In late 2024, [FlameIsLucky](https://www.youtube.com/@FlameIsLucky) started an [ARG](https://en.wikipedia.org/wiki/Alternate_reality_game) related to their [Where is Mew?](https://www.youtube.com/watch?v=m5gbvKpFEpg) video. As part of this ARG, the channel was changed drastically. Video thumbnails were changed and displayed a self-destruct date.
 
