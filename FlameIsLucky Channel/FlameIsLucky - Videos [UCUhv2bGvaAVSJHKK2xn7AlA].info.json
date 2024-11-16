@@ -1,0 +1,93 @@
+{
+  "id": "UCUhv2bGvaAVSJHKK2xn7AlA",
+  "channel": "FlameIsLucky",
+  "channel_id": "UCUhv2bGvaAVSJHKK2xn7AlA",
+  "title": "FlameIsLucky - Videos",
+  "channel_follower_count": 29800,
+  "description": "...",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Rxdvx6SfFd2sn7PT8unoRqw_t20z3x8I2wzY9Up6qk4js6QImYBMgUQ9MY3Dl0wUvUY2nlYDUw=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/wTN4umYmWUGx5dGBURztL9lDu8MHPCQh-NrGfgTMGq1dXAPjqFlH6Xcg1MrpC2d7VSHuG3ZHcw=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/wTN4umYmWUGx5dGBURztL9lDu8MHPCQh-NrGfgTMGq1dXAPjqFlH6Xcg1MrpC2d7VSHuG3ZHcw=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@FlameIsLucky",
+  "uploader_url": "https://www.youtube.com/@FlameIsLucky",
+  "playlist_count": 11,
+  "uploader": "FlameIsLucky",
+  "channel_url": "https://www.youtube.com/channel/UCUhv2bGvaAVSJHKK2xn7AlA",
+  "_type": "playlist",
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@FlameIsLucky/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "epoch": 1731780788,
+  "_version": {
+    "version": "2024.08.06",
+    "release_git_head": "4d9231208332d4c32364b8cd814bff8b20232cae",
+    "repository": "yt-dlp/yt-dlp"
+  }
+}
